@@ -1,7 +1,7 @@
 name = Book Review
 core = 7.x
 package = Features
-version = 7.x-2.3
+version = 7.x-2.5
 dependencies[] = ctools
 dependencies[] = features
 dependencies[] = list
